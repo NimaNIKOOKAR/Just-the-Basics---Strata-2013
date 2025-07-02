@@ -1,3 +1,5 @@
+# Codes will be added
+
 # Just the Basics - Strata 2013 Kaggle Competition
 
 Welcome to the **Just the Basics** competition, part of an introductory tutorial at Strata 2013 presented by two of Kaggle's very own: **Ben Hamner** and **William Cukierski**. Targeted for those with basic programming experience, this hands-on tutorial covers the end-to-end analysis of predictive data problems and concludes with a live Kaggle competition!
